@@ -1,0 +1,20 @@
+#bottom{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+ .odd{
+    background-color: salmon;
+    font-family: verdana, dejavu sans, sans-serif;
+}
+
+#top{
+    color: blue;
+    font-size: 36px;
+}
+
+.par{
+    font-size: 24px;
+}
+
